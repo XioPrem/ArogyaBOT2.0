@@ -1,17 +1,8 @@
-Web Framework and Server
-flask
-gunicorn
-
-APIs and Web Requests
-requests
-google-search-results
-twilio
-
-Web Scraping
-beautifulsoup4
-
-Environment Variables
-python-dotenv
-
-The original UI framework (optional for the backend, but good to keep)
+Flask==2.2.5
+gunicorn==21.2.0
+requests==2.31.0
+google-search-results==2.4.2
+twilio==9.3.1
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
 streamlit

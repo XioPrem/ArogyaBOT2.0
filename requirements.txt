@@ -1,0 +1,17 @@
+Web Framework and Server
+flask
+gunicorn
+
+APIs and Web Requests
+requests
+google-search-results
+twilio
+
+Web Scraping
+beautifulsoup4
+
+Environment Variables
+python-dotenv
+
+The original UI framework (optional for the backend, but good to keep)
+streamlit
